@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-  <main></main>
+  <footer>Questo è un footer di Vite 🎶</footer>
 </template>
 
 <style lang="scss" scoped></style>
